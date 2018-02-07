@@ -16,6 +16,7 @@
 .\#*
 \#*.*\#
 .hg
+.idea
 .hgignore
 development.ini
 r2/r2/public/static/frame.js
@@ -29,3 +30,4 @@ r2/myproduction.ini
 *.egg-info/**
 build/
 r2.data
+

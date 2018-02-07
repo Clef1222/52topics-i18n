@@ -75,13 +75,13 @@ msgstr "reddit黄金价格为%(gold_month_price)s/月，或%(gold_year_price)s�
 msgid "reddit gold is our premium membership program. It comes with extra features to make your experience here better as well as special benefits from gold partners for exceptional products and services.\n\n"
 "reddit takes no payment from gold partners for being in this program. We ask that they give all the benefits to you, our users. We hope in turn that this helps make gold a program worth subscribing to.\n\n"
 "If you have questions about any of the benefits, please visit /r/goldbenefits. New benefits and features will also be announced there, and we hope you'll enjoy them."
-msgstr "reddit黄金是我们的高级会员项目。It comes with extra features to make your experience here better as well as special benefits from gold partners for exceptional products and services.\n\n"
-"reddit takes no payment from gold partners for being in this program. We ask that they give all the benefits to you, our users. We hope in turn that this helps make gold a program worth subscribing to.\n\n"
-"If you have questions about any of the benefits, please visit /r/goldbenefits. New benefits and features will also be announced there, and we hope you'll enjoy them."
+msgstr "话题网黄金会员是我们的高级会员项目。黄金会员拥有额外的产品和服务，可以让您获得更好的网站体验。\n\n"
+"话题网收取黄金会员订阅费用不以盈利为目的。我们获得的费用将使你和我们所有的用户受益。我们希望以此助益于把黄金会员打造成为值得订阅的服务。\n\n"
+"如果你有任何关于会员利益上的问题，请访问 /r/goldbenefits 。 新的福利和特性也会在那个板块公布，我们希望你会喜欢。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:80
 msgid "You can make reddit better."
-msgstr "你可以让reddit变得更棒。"
+msgstr "你可以让话题网变得更棒。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:90
 msgid "Awesome stuff for gold members:"
@@ -97,7 +97,7 @@ msgstr "休息室"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:110
 msgid "Access to a super-secret members-only community that may or may not exist."
-msgstr "似有似无的仅限会员的绝密社区的访问权限。"
+msgstr "隐藏的仅限会员的绝密社区的访问权限。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:111
 msgid "Beta test new features."
@@ -105,7 +105,7 @@ msgstr "测试新功能。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:111
 msgid "We occasionally invite gold members to try out new features first."
-msgstr "我们有时会优先邀请reddit黄金会员试用新功能。"
+msgstr "我们有时会优先邀请话题网黄金会员试用新功能。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:112
 msgid "A trophy on your user page."
@@ -113,7 +113,7 @@ msgstr "一个展示在你的用户页面上的奖品。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:112
 msgid "As thanks for supporting reddit gold."
-msgstr "作为对你支持reddit黄金的感谢。"
+msgstr "作为对你支持话题网黄金会员的感谢。"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:113
 msgid "More to come."
@@ -133,7 +133,7 @@ msgstr "我们还有许多黄金功能的构想，未来会添加至该列表。
 #. without any typographic effects.
 #: ../../gold/reddit_gold/templates/goldinfopage.html:129
 msgid "send us a postcard | for | 1 free month | of | reddit gold"
-msgstr "给我们寄明信片 | 获取 | 1个月 | 免费 | reddit黄金"
+msgstr "给我们寄明信片 | 获取 | 1个月 | 免费 | 话题网黄金会员"
 
 #: ../../gold/reddit_gold/templates/goldinfopage.html:142
 msgid "view the postcard gallery"
@@ -150,15 +150,15 @@ msgstr "访问合作伙伴"
 
 #: ../../gold/reddit_gold/templates/goldpartnerspage.html:51
 msgid "reddit gold partners"
-msgstr "reddit黄金合作伙伴"
+msgstr "话题网黄金合作伙伴"
 
 #: ../../gold/reddit_gold/templates/snoovatar.html:13
 msgid "your snoovatar!"
-msgstr "你的snoo形象！"
+msgstr "你的炫酷形象！"
 
 #: ../../gold/reddit_gold/templates/snoovatar.html:50
 msgid "make my snoovatar public"
-msgstr "公开我的snoo形象"
+msgstr "公开我的炫酷形象"
 
 #: ../../gold/reddit_gold/templates/snoovatar.html:57
 msgid "main color"
@@ -178,7 +178,7 @@ msgstr "下载"
 
 #: ../../gold/reddit_gold/templates/snoovatar.html:76
 msgid "see more snoovatars and make suggestions in /r/snoovatars"
-msgstr "在/r/snoovatars查看更多snoo形象和提建议"
+msgstr "在/r/snoovatars查看更多炫酷形象和提建议"
 
 #: ../../gold/reddit_gold/templates/snoovatar.html:78
 #, python-format
@@ -187,24 +187,24 @@ msgstr "在[这里](/user/%(username)s/snoo)创建你自己的snoo形象"
 
 #: ../../gold/reddit_gold/templates/snoovatar.html:81
 msgid "[create your own snoovatar with **reddit gold**](/gold?source=snoovatar)"
-msgstr "[使用**reddit黄金**创建你自己的snoo形象](/gold?source=snoovatar)"
+msgstr "[使用**黄金会员**创建你自己的炫酷形象](/gold?source=snoovatar)"
 
 #: ../../about/reddit_about/about.py:64
 msgid "we power awesome communities."
-msgstr "我们驱动着超棒的网络社区。"
+msgstr "我们打造超棒的网络社区。"
 
 #: ../../about/reddit_about/about.py:65 ../../about/reddit_about/pages.py:20
 #: ../../about/reddit_about/pages.py:26
 msgid "about reddit"
-msgstr "关于reddit"
+msgstr "关于话题网"
 
 #: ../../about/reddit_about/about.py:89
 msgid "we spend our days building reddit."
-msgstr "我们每天都在打造更好的reddit。"
+msgstr "我们每天都在打造更好的话题网。"
 
 #: ../../about/reddit_about/about.py:90
 msgid "about the reddit team"
-msgstr "关于reddit团队"
+msgstr "关于话题网团队"
 
 #: ../../about/reddit_about/about.py:99
 #, python-format
@@ -225,7 +225,7 @@ msgstr "外星人"
 
 #: ../../about/reddit_about/about.py:116
 msgid "new to reddit? welcome."
-msgstr "reddit新人？欢迎！"
+msgstr "话题网新人？欢迎！"
 
 #: ../../about/reddit_about/about.py:117
 msgid "guide"
@@ -294,15 +294,15 @@ msgstr "%(user)s投稿的稿件"
 
 #: ../../about/reddit_about/templates/about.html:80
 msgid "how reddit works"
-msgstr "reddit怎样运作"
+msgstr "话题网怎样运作"
 
 #: ../../about/reddit_about/templates/about.html:82
 msgid "**redditors vote** on which stories and discussions are important. the hottest stories rise to the top, while cooler stories sink."
-msgstr "**reddit客投票**选出重要的故事和讨论。最热门的故事会上升至顶部，同时冷门的故事会下沉。"
+msgstr "**话题客投票**选出重要的故事和讨论。最热门的故事会上升至顶部，同时冷门的故事会下沉。"
 
 #: ../../about/reddit_about/templates/about.html:83
 msgid "**comments can be posted on every story** on reddit. comments add information, context, and humor."
-msgstr "reddit上的**每个故事都可以发表评论**。评论给故事添加信息、背景和幽默。"
+msgstr "话题网上的**每个故事都可以发表评论**。评论给故事添加信息、背景和幽默。"
 
 #: ../../about/reddit_about/templates/about.html:84
 msgid "**anyone can create a community** (called \"subreddits\"). each subreddit is independent and moderated by a team of volunteers."
@@ -310,7 +310,7 @@ msgstr "**任何人都可以创建社区**（称作“版块”）。每个版�
 
 #: ../../about/reddit_about/templates/about.html:85
 msgid "**reddit is open source**. community members are constantly tinkering and contributing features, bug fixes, and translations back to the site."
-msgstr "**reddit是开源的**。社区成员持续完善，并贡献新功能、错误修复和翻译给这个网站。"
+msgstr "**话题网是开源的**。社区成员持续完善，并给这个网站贡献新功能、错误修复和翻译"
 
 #: ../../about/reddit_about/templates/about.html:88
 msgid "stats at a glance"
@@ -339,7 +339,7 @@ msgstr "浏览总计 %(value)s 页面"
 #: ../../about/reddit_about/templates/about.html:99
 #, python-format
 msgid "**yesterday**, reddit powered %(value)s active communities"
-msgstr "**昨天**，reddit驱动了 %(value)s 活跃社区"
+msgstr "**昨天**，话题网驱动了 %(value)s 活跃社区"
 
 #: ../../about/reddit_about/templates/about.html:99
 msgid "communities with at least 5 posts or comments yesterday"
@@ -348,11 +348,11 @@ msgstr "昨天至少有5个帖子或评论的社区"
 #: ../../about/reddit_about/templates/about.html:100
 #, python-format
 msgid "consisting of over %(value)s logged in redditors"
-msgstr "由超过 %(value)s 登录的reddit客组成"
+msgstr "由超过 %(value)s 登录的话题客组成"
 
 #: ../../about/reddit_about/templates/about.html:100
 msgid "logged-in redditors yesterday"
-msgstr "昨天登录的reddit客"
+msgstr "昨天登录的话题客"
 
 #: ../../about/reddit_about/templates/about.html:101
 #, python-format
@@ -370,7 +370,7 @@ msgstr "创建广告"
 
 #: ../../about/reddit_about/templates/advertising.html:61
 msgid "budget larger than $30k?"
-msgstr "预算超过3万美元？"
+msgstr "预算超过20万元？"
 
 #: ../../about/reddit_about/templates/advertising.html:62
 msgid "contact our sales team"
@@ -582,11 +582,11 @@ msgstr "API说明文档"
 
 #: r2/controllers/buttons.py:108
 msgid "reddit buttons"
-msgstr "reddit按钮"
+msgstr "话题网按钮"
 
 #: r2/controllers/buttons.py:113
 msgid "reddit widget"
-msgstr "reddit小工具"
+msgstr "话题网小工具"
 
 #: r2/controllers/embed.py:71 r2/lib/pages/pages.py:1361
 #: r2/templates/printablebuttons.html:128
@@ -724,7 +724,7 @@ msgstr "仅评论"
 #: r2/controllers/front.py:1073
 #, python-format
 msgid "Rules for %(subreddit)s"
-msgstr ""
+msgstr "规则 for %(subreddit)s"
 
 #: r2/controllers/front.py:1113 r2/lib/menus.py:163
 msgid "awards"
@@ -772,24 +772,24 @@ msgstr "联系我们"
 
 #: r2/controllers/front.py:1632
 msgid "Claimed! Enjoy your reddit gold membership."
-msgstr "已认领！享受你的reddit黄金会员身份吧。"
+msgstr "已认领！享受你的话题网黄金会员身份吧。"
 
 #: r2/controllers/front.py:1636
 msgid "Your gold creddits have been claimed! Now go to someone's userpage and give them a present!"
-msgstr "你的黄金reddit点数已经认领！现在前往某个用户的用户页面赠送他们礼物吧！"
+msgstr "你的黄金点数已经认领！现在前往某个用户的用户页面赠送他们礼物吧！"
 
 #: r2/controllers/front.py:1639
 msgid "Thanks for buying reddit gold! Your transaction has been completed."
-msgstr "感谢购买reddit黄金！你的交易已经完成。"
+msgstr "感谢购买话题网黄金会员！你的交易已经完成。"
 
 #: r2/controllers/front.py:1642
 msgid "Thanks for buying reddit gold! Your transaction has been completed and emailed to you. You can check the details by signing into your account at:"
-msgstr "感谢购买reddit黄金！你的交易已经完成，并已给你发送电子邮件。你可以登录你的账户查看交易详情："
+msgstr "感谢购买话题网黄金会员！你的交易已经完成，并已给你发送电子邮件。你可以登录你的账户查看交易详情："
 
 #: r2/controllers/front.py:1648
 #, python-format
 msgid "Thanks for buying reddit gold! Your transaction is being processed. If you have any questions please email us at %(gold_email)s"
-msgstr "感谢购买reddit黄金！你的交易正在处理。如果你有任何疑问，请发送电子邮件至%(gold_email)s联系我们"
+msgstr "感谢购买话题网黄金会员！你的交易正在处理。如果你有任何疑问，请发送电子邮件至%(gold_email)s联系我们"
 
 #: r2/controllers/front.py:1655 r2/controllers/front.py:2042
 msgid "thanks"
@@ -842,7 +842,7 @@ msgstr "已取消订阅电子邮件"
 
 #: r2/controllers/front.py:1947
 msgid "advertising preferences (reddit.com)"
-msgstr "广告设置（reddit.com）"
+msgstr "广告设置（52topics.com）"
 
 #: r2/controllers/front.py:1994 r2/lib/pages/pages.py:1118
 #: r2/templates/admininterstitial.html:79
@@ -862,15 +862,15 @@ msgstr "欢迎回来"
 #: r2/templates/gold.html:27 r2/templates/goldpayment.html:37
 #: r2/templates/goldthanks.html:26 r2/templates/prefoptions.html:441
 msgid "reddit gold"
-msgstr "reddit黄金"
+msgstr "话题网黄金会员"
 
 #: r2/controllers/front.py:2228 r2/templates/gilding.html:76
 msgid "purchase creddits"
-msgstr "购买reddit点数"
+msgstr "购买话题点数"
 
 #: r2/controllers/front.py:2238 r2/controllers/ipn.py:1148
 msgid "reddit gold subscription"
-msgstr "reddit黄金订阅"
+msgstr "话题网黄金会员订阅"
 
 #: r2/controllers/front.py:2252
 msgid "You don't have an email address associated \n"
@@ -909,9 +909,9 @@ msgstr "你的黄金礼物代码已经生成！"
 msgid "Here is your gift code for %(amount)s of reddit gold:\n\n"
 "%(code)s\n\n"
 "The recipient (or you!) can enter it at https://www.reddit.com/gold or go directly to https://www.reddit.com/thanks/%(code)s to claim it."
-msgstr "这是你%(amount)s的reddit黄金的礼物代码：\n\n"
+msgstr "这是你%(amount)s的话题网黄金会员的礼物代码：\n\n"
 "%(code)s\n\n"
-"受赠者（或是你！）可以在http://www.reddit.com/gold输入代码或直接前往http://www.reddit.com/thanks/%(code)s认领reddit黄金。"
+"受赠者（或是你！）可以在http://www.52topcis.com/gold输入代码或直接前往http://www.52topics.com/thanks/%(code)s认领话题网黄金会员。"
 
 #: r2/controllers/ipn.py:373
 msgid "nice try."
@@ -923,7 +923,7 @@ msgstr "该用户已经删除了账号"
 
 #: r2/controllers/ipn.py:421 r2/controllers/ipn.py:435
 msgid "the gold has been delivered!"
-msgstr "黄金已经送达！"
+msgstr "黄金会员已经送达！"
 
 #: r2/controllers/ipn.py:426
 #, python-format
@@ -936,19 +936,19 @@ msgstr "礼品码已经发送给你！"
 
 #: r2/controllers/ipn.py:568
 msgid "Eureka! Thank you for investing in reddit gold!"
-msgstr "真棒！感谢投资reddit黄金！"
+msgstr "真棒！感谢投资话题黄金！"
 
 #: r2/controllers/ipn.py:569
 msgid "Thank you for buying reddit gold. Your patronage supports the site and makes future development possible. For example, one month of reddit gold pays for 5 instance hours of reddit's servers."
-msgstr "谢谢您买reddit金。您的光顾会帮助这个网站，也会帮助未来的发展。买一个月的reddit金就能付服务器的5个小时的费用钱。"
+msgstr "谢谢您买话题网黄金会员。您的光顾会帮助这个网站，也会帮助未来的发展。买一个月的黄金会员就能付服务器的5个小时的费用钱。"
 
 #: r2/controllers/ipn.py:582
 msgid "Eureka! Thank you for investing in reddit gold creddits!"
-msgstr "真棒！感谢你资助reddit金reddit点数！"
+msgstr "真棒！感谢你资助话题网黄金点数！"
 
 #: r2/controllers/ipn.py:585
 msgid "Thank you for buying creddits. Your patronage supports the site and makes future development possible. To spend your creddits and spread reddit gold, visit [/gold](/gold) or your favorite person's user page."
-msgstr "感谢购买reddit点数。你的资助支持了网站并让未来的开发成为可能。要花费你的reddit点数与分发reddit黄金，请访问[/gold](/gold)或你喜爱的用户的用户页面。"
+msgstr "感谢购买话题点数。你的资助支持了网站并让未来的开发成为可能。要花费你的话题点数与分发话题黄金，请访问[/gold](/gold)或你喜爱的用户的用户页面。"
 
 #: r2/controllers/ipn.py:591 r2/controllers/ipn.py:613
 #: r2/templates/goldgiftcodeemail.email:25
@@ -957,50 +957,50 @@ msgstr "再次感谢您的支持，请愉快的分发金币吧！"
 
 #: r2/controllers/ipn.py:607
 msgid "Thanks for giving the gift of reddit gold!"
-msgstr "感谢赠送reddit黄金礼物！"
+msgstr "感谢赠送话题网黄金会员礼物！"
 
 #: r2/controllers/ipn.py:608
 #, python-format
 msgid "Your classy gift to %s has been delivered.\n\n"
 "Thank you for gifting reddit gold. Your patronage supports the site and makes future development possible."
 msgstr "您漂亮的礼物已经被递送给了 %s. \n\n"
-"感谢您赠送reddit金币。您的赞助将帮助我们维护和继续开发网站。"
+"感谢您赠送话题网金币。您的赞助将帮助我们维护和继续开发网站。"
 
 #: r2/controllers/ipn.py:737
 msgid "reddit gold payment cancelled"
-msgstr "reddit黄金支付已取消"
+msgstr "话题网黄金支付已取消"
 
 #: r2/controllers/ipn.py:738
 #, python-format
 msgid "Your reddit gold payment has been cancelled, contact %(gold_email)s for details"
-msgstr "你的reddit黄金支付已经被取消，详情请联系%(gold_email)s"
+msgstr "你的话题黄金支付已经被取消，详情请联系%(gold_email)s"
 
 #: r2/controllers/ipn.py:753
 msgid "reddit gold payment failed"
-msgstr "reddit黄金支付失败"
+msgstr "话题黄金支付失败"
 
 #: r2/controllers/ipn.py:754
 #, python-format
 msgid "Your reddit gold payment has failed, contact %(gold_email)s for details"
-msgstr "您的reddit金支付失败了，请问%(gold_email)s关于细节"
+msgstr "您的话题黄金会员支付失败了，请问%(gold_email)s关于细节"
 
 #: r2/controllers/ipn.py:763
 msgid "reddit gold subscription cancelled"
-msgstr "reddit黄金订阅已取消"
+msgstr "话题网黄金会员订阅已取消"
 
 #: r2/controllers/ipn.py:764
 #, python-format
 msgid "Your reddit gold subscription has been cancelled because your credit card could not be charged. Contact %(gold_email)s for details"
-msgstr "您的reddit金币订阅已被取消，因为您的信用账户不能被充值。详情请联系 %(gold_email)s"
+msgstr "您的话题网金币会员订阅已被取消，因为您的信用账户不能被充值。详情请联系 %(gold_email)s"
 
 #: r2/controllers/ipn.py:774
 msgid "reddit gold refund"
-msgstr "reddit黄金退款"
+msgstr "话题网黄金会员退款"
 
 #: r2/controllers/ipn.py:775
 #, python-format
 msgid "Your reddit gold payment has been refunded, contact %(gold_email)s for details"
-msgstr "你的reddit黄金支付已经退款，详情请联系%(gold_email)s"
+msgstr "你的话题网黄金会员支付已经退款，详情请联系%(gold_email)s"
 
 #: r2/controllers/ipn.py:886
 #, python-format
@@ -1033,7 +1033,7 @@ msgstr "出错：CVC验证失败"
 
 #: r2/controllers/ipn.py:1085
 msgid "your gold subscription has been cancelled"
-msgstr "你的黄金订阅已经取消"
+msgstr "你的黄金会员订阅已经取消"
 
 #: r2/controllers/ipn.py:1086
 #, python-format
@@ -1046,7 +1046,7 @@ msgstr "出先了状况、请稍候再试"
 
 #: r2/controllers/ipn.py:1122
 msgid "your account already has a gold subscription"
-msgstr "你的账户已经拥有黄金订阅"
+msgstr "你的账户已经拥有黄金会员订阅"
 
 #: r2/controllers/ipn.py:1128
 msgid "stop trying to trick the form"
@@ -1058,7 +1058,7 @@ msgstr "订阅成功"
 
 #: r2/controllers/ipn.py:1149
 msgid "Your subscription is being processed and reddit gold will be delivered shortly."
-msgstr "您的订阅正在处理中，reddit金币马上将会递送。"
+msgstr "您的订阅正在处理中，话题网黄金会员马上将会递送。"
 
 #: r2/controllers/ipn.py:1157
 msgid "payment submitted"
@@ -1066,11 +1066,11 @@ msgstr "支付已提交"
 
 #: r2/controllers/ipn.py:1158
 msgid "reddit gold payment"
-msgstr "reddit黄金支付"
+msgstr "话题网黄金会员支付"
 
 #: r2/controllers/ipn.py:1159
 msgid "Your payment is being processed and reddit gold will be delivered shortly."
-msgstr "您的支付正在处理中，reddit金币将被立刻递送。"
+msgstr "您的支付正在处理中，话题金币将被立刻递送。"
 
 #: r2/controllers/ipn.py:1176
 msgid "your payment details have been updated"
@@ -1084,14 +1084,14 @@ msgstr "您的订阅已被取消"
 #, python-format
 msgid "You have created a yearly Reddit Gold subscription for %(price)s per year.\n\n"
 "This subscription will renew automatically yearly until you cancel. You may cancel your subscription at any time by visiting %(subscr_url)s.\n\n"
-msgstr "成功订阅Reddit Gold, 年费 %(price)s。直至取消订阅前，默认开启自动续费。\n\n"
+msgstr "成功订阅话题网黄金会员, 年费 %(price)s。直至取消订阅前，默认开启自动续费。\n\n"
 "随时取消订阅，请访问%(subscr_url)s。\n\n"
 
 #: r2/controllers/ipn.py:1405
 #, python-format
 msgid "You have created a monthly Reddit Gold subscription for %(price)s per month.\n\n"
 "This subscription will renew automatically monthly until you cancel. You may cancel your subscription at any time by visiting %(subscr_url)s.\n\n"
-msgstr "成功订阅Reddit Gold, 月费 %(price)s。直至取消订阅前，默认开启自动续费。\n\n"
+msgstr "成功订阅话题网黄金会员, 月费 %(price)s。直至取消订阅前，默认开启自动续费。\n\n"
 "随时取消订阅，请访问%(subscr_url)s。\n\n"
 
 #: r2/controllers/ipn.py:1411
@@ -1105,18 +1105,18 @@ msgstr "成功续费Reddit Gold, 月费 %(price)s。直至取消订阅前，默�
 #, python-format
 msgid "Your Reddit Gold subscription has been renewed for 1 year for %(price)s.\n\n"
 "This subscription will renew automatically yearly until you cancel. You may cancel your subscription at any time by visiting %(subscr_url)s.\n\n"
-msgstr "成功续费Reddit Gold, 年费 %(price)s。直至取消订阅前，默认开启自动续费。\n\n"
+msgstr "成功续费话题网黄金会员, 年费 %(price)s。直至取消订阅前，默认开启自动续费。\n\n"
 "随时取消定于，请访问%(subscr_url)s。\n\n"
 
 #: r2/controllers/ipn.py:1421
 msgid "Reddit Gold Subscription"
-msgstr "reddit黄金订阅"
+msgstr "话题网黄金会员订阅"
 
 #: r2/controllers/ipn.py:1422
 #, python-format
 msgid "If you cancel, you will not be billed for any additional months of service, and service will continue until the end of the billing period. If you cancel, you will not receive a refund for any service already paid for.\n\n"
 "If you have any questions, please contact %(gold_email)s."
-msgstr "如果你选择取消，那么此后你将不再收到任何需要你为未来的服务付费的账单，而且这项服务还将一直继续到你当前已购买的时长结束。如果你选择取消，你已经购买的服务并不能被退款。\n\n"
+msgstr "如果你选择取消，那么你将不会继续收到服务付费账单，这项服务将持续到你当前已购买的时长到期后结束。如果你选择取消，你已经购买的服务并不能被退款。\n\n"
 "如果你还有任何疑问，请联系%(gold_email)s。"
 
 #: r2/controllers/listingcontroller.py:652
@@ -1297,7 +1297,7 @@ msgstr "内容政策"
 
 #: r2/controllers/policies.py:54 r2/lib/pages/pages.py:6623
 msgid "healthy communities"
-msgstr ""
+msgstr "稳健社区"
 
 #: r2/controllers/post.py:77
 msgid "over 18?"
@@ -1378,11 +1378,11 @@ msgstr "已举报推广链接"
 
 #: r2/controllers/promotecontroller.py:546
 msgid "reported promoted links created externally"
-msgstr ""
+msgstr "已举报的外部创建推广链接"
 
 #: r2/controllers/promotecontroller.py:547
 msgid "house promoted links"
-msgstr "reddit推广链接"
+msgstr "话题网推广链接"
 
 #: r2/controllers/promotecontroller.py:548
 msgid "fraud suspected promoted links"
@@ -1390,7 +1390,7 @@ msgstr "有欺诈嫌疑的推广链接"
 
 #: r2/controllers/promotecontroller.py:554
 msgid "promos on reddit"
-msgstr "在reddit上宣传"
+msgstr "在话题网上宣传"
 
 #: r2/controllers/promotecontroller.py:864
 msgid "target oversold, can't freebie"
@@ -1765,7 +1765,7 @@ msgstr "你的%(cost_basis)s出价必须至少为$%(min)s，且不能多于$%(ma
 
 #: r2/lib/errors.py:77
 msgid "your campaign must be capable of delivering 1,000 impressions per day; please adjust your bid or schedule accordingly."
-msgstr ""
+msgstr "你的竞选必须达到每天发送1000个表态；请适度调整你的投标或计划。"
 
 #: r2/lib/errors.py:78
 msgid "that link has already been submitted"
@@ -1813,7 +1813,7 @@ msgstr "该名称不能使用"
 
 #: r2/lib/errors.py:90
 msgid "that subreddit can't be used as a theme"
-msgstr ""
+msgstr "该板块不能作为一个主题"
 
 #: r2/lib/errors.py:91
 msgid "that collection doesn't exist"
@@ -1920,7 +1920,7 @@ msgstr "开始日期无法更改"
 
 #: r2/lib/errors.py:118
 msgid "this campaign was created prior to auction and cannot be edited"
-msgstr ""
+msgstr "该板块在投标前创建并且不能被更改"
 
 #: r2/lib/errors.py:119
 #, python-format
@@ -2012,15 +2012,15 @@ msgstr "访问被用户拒绝"
 
 #: r2/lib/errors.py:142
 msgid "refresh tokens are not allowed for this response_type"
-msgstr ""
+msgstr "刷新密钥不允许用于该 response_type"
 
 #: r2/lib/errors.py:143
 msgid "confidential clients can not request tokens directly"
-msgstr ""
+msgstr "保密客户不能直接请求密钥"
 
 #: r2/lib/errors.py:144
 msgid "This contains offensive content"
-msgstr ""
+msgstr "这里包含让人不适的内容"
 
 #: r2/lib/errors.py:145
 msgid "please confirm the form"
@@ -2037,7 +2037,7 @@ msgstr "无法通过API执行该操作"
 #: r2/lib/errors.py:148
 #, python-format
 msgid "%(domain)s is not allowed on reddit: %(reason)s"
-msgstr "%(domain)s 不被允许在reddit上发布，原因为: %(reason)s"
+msgstr "%(domain)s 不被允许在话题网上发布，原因为: %(reason)s"
 
 #: r2/lib/errors.py:149
 msgid "you must enable two-factor authentication"
@@ -2065,11 +2065,11 @@ msgstr "过多开发者"
 
 #: r2/lib/errors.py:156
 msgid "you cannot add this account from this interface"
-msgstr ""
+msgstr "你不能在该接口上添加此帐号"
 
 #: r2/lib/errors.py:157
 msgid "invalid modhash"
-msgstr ""
+msgstr "无效的模散列"
 
 #: r2/lib/errors.py:158
 msgid "that user is already a moderator"
@@ -2174,7 +2174,7 @@ msgstr "该用户被该版块封锁"
 
 #: r2/lib/errors.py:182
 msgid "You can't do that while suspended."
-msgstr ""
+msgstr "你在封禁期间无法进行此操作。"
 
 #: r2/lib/errors.py:183
 msgid "You must reset your password before doing that."
@@ -2186,7 +2186,7 @@ msgstr "你需要拥有有效的Reddit金账户才可以这样做"
 
 #: r2/lib/errors.py:185
 msgid "insufficient creddits"
-msgstr "reddit点数不足"
+msgstr "话题点数不足"
 
 #: r2/lib/errors.py:186
 msgid "gilding is not allowed in this subreddit"
@@ -2219,7 +2219,7 @@ msgstr "只有金牌用户可以选择本板块"
 
 #: r2/lib/errors.py:194
 msgid "Your account is too new, you do not have enough karma to create a subreddit, or you are otherwise unable to create a subreddit. Please contact the admins to request an exemption."
-msgstr ""
+msgstr "你的帐号太新了，你没有足够的荣誉值可创建板块，或者你因为别的原因不能创建板块。请联系管理员请求一个豁免。"
 
 #: r2/lib/errors.py:195
 msgid "you must select at least one mobile OS to target"
@@ -2239,11 +2239,11 @@ msgstr "该用户已经被该版块禁言。"
 
 #: r2/lib/errors.py:199 r2/public/static/js/errors.js:7
 msgid "A subreddit rule by that name already exists."
-msgstr ""
+msgstr "此名称的板块规则已存在"
 
 #: r2/lib/errors.py:200
 msgid "No subreddit rule by that name exists."
-msgstr ""
+msgstr "不存在此名称的板块规则"
 
 #: r2/lib/errors.py:201 r2/public/static/js/errors.js:8
 msgid "This subreddit already has the maximum number of rules."
@@ -2251,7 +2251,7 @@ msgstr "这个版块的版规数量已经达到了上限。"
 
 #: r2/lib/errors.py:202
 msgid "This comment is not stickyable. Ensure that it is a top level comment."
-msgstr ""
+msgstr "该评论无法粘住。请先确定这是一个顶层评论。"
 
 #: r2/lib/errors.py:203
 msgid "Cannot access this comment."
@@ -2279,7 +2279,7 @@ msgstr "这项功能在这个版块中还未被启用。"
 
 #: r2/lib/errors.py:209
 msgid "Could not find thing object, it does not exist."
-msgstr ""
+msgstr "找不到目标对象，它不存在。"
 
 #: r2/lib/errors.py:210
 msgid "Failed to save modmail conversation."
@@ -2295,7 +2295,7 @@ msgstr "会话不能归档。"
 
 #: r2/lib/errors.py:213
 msgid "You do not have the correct moderator permissions."
-msgstr ""
+msgstr "你没有符合条件的主持权限。"
 
 #: r2/lib/errors.py:214
 msgid "The requested subreddit was not found."
@@ -2303,7 +2303,7 @@ msgstr "请求的版块未找到。"
 
 #: r2/lib/errors.py:215
 msgid "This thread has been marked unrepliable."
-msgstr ""
+msgstr "该对话已被标记为不可回复。"
 
 #: r2/lib/errors.py:217
 msgid "You can't add a blocked user as a trusted user."
@@ -2319,7 +2319,7 @@ msgstr "你已经将这位用户添加为受信任的用户。"
 
 #: r2/lib/errors.py:222
 msgid "This creative in managed in the new reddit ads site"
-msgstr ""
+msgstr "该创意管理于新的话题网广告网站"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
@@ -2385,121 +2385,121 @@ msgstr "有趣的500页的第10消息"
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:22
 msgid "Reason to create a reddit 1"
-msgstr "创建reddit第1条理由"
+msgstr "创建话题网第1条理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:24
 msgid "Reason to create a reddit 2"
-msgstr "创建reddit第2理由"
+msgstr "创建话题网第2理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:26
 msgid "Reason to create a reddit 3"
-msgstr "创建reddit第3理由"
+msgstr "创建话题网第3理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:28
 msgid "Reason to create a reddit 4"
-msgstr "创建reddit第4理由"
+msgstr "创建话题网第4理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:30
 msgid "Reason to create a reddit 5"
-msgstr "创建reddit第5理由"
+msgstr "创建话题网第5理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:32
 msgid "Reason to create a reddit 6"
-msgstr "创建reddit第6理由"
+msgstr "创建话题网第6理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:34
 msgid "Reason to create a reddit 7"
-msgstr "创建reddit第7理由"
+msgstr "创建话题网第7理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:36
 msgid "Reason to create a reddit 8"
-msgstr "创建reddit第8理由"
+msgstr "创建话题网第8理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:38
 msgid "Reason to create a reddit 9"
-msgstr "创建reddit第9理由"
+msgstr "创建话题网第9理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:40
 msgid "Reason to create a reddit 10"
-msgstr "创建reddit第10理由"
+msgstr "创建网提网第10理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:42
 msgid "Reason to create a reddit 11"
-msgstr "创建reddit第11理由"
+msgstr "创建话题网第11理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:44
 msgid "Reason to create a reddit 12"
-msgstr "创建reddit第12理由"
+msgstr "创建话题网第12理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:46
 msgid "Reason to create a reddit 13"
-msgstr "创建reddit第13理由"
+msgstr "创建话题网第13理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:48
 msgid "Reason to create a reddit 14"
-msgstr "创建reddit第14理由"
+msgstr "创建话题网第14理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:50
 msgid "Reason to create a reddit 15"
-msgstr "创建reddit第15理由"
+msgstr "创建话题网第15理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:52
 msgid "Reason to create a reddit 16"
-msgstr "创建reddit第16理由"
+msgstr "创建话题网第16理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:54
 msgid "Reason to create a reddit 17"
-msgstr "创建reddit第17理由"
+msgstr "创建话题网第17理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:56
 msgid "Reason to create a reddit 18"
-msgstr "创建reddit第18理由"
+msgstr "创建话题网第18理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:58
 msgid "Reason to create a reddit 19"
-msgstr "创建reddit第19理由"
+msgstr "创建话题网第19理由"
 
 #. TRANSLATORS: Do not translate literally. Come up with a funny/relevant phrase
 #. (see the English version for ideas.) Accepts markdown formatting.
 #: r2/lib/generated_strings.py:60
 msgid "Reason to create a reddit 20"
-msgstr "创建reddit第20理由"
+msgstr "创建话题网第20理由"
 
 #: r2/lib/generated_strings.py:61
 msgid "uniques by hour"
@@ -2686,7 +2686,7 @@ msgstr "退出"
 
 #: r2/lib/menus.py:87
 msgid "reddiquette"
-msgstr "reddit行为规范"
+msgstr "话题网行为规范"
 
 #: r2/lib/menus.py:89
 msgid "buttons"
@@ -2714,7 +2714,7 @@ msgstr "源代码"
 
 #: r2/lib/menus.py:98
 msgid "mod guidelines"
-msgstr ""
+msgstr "模块指南"
 
 #: r2/lib/menus.py:101 r2/templates/newlink.html:304
 #: r2/templates/promotelinkbase.html:254
@@ -2852,7 +2852,7 @@ msgstr "管理队列"
 
 #: r2/lib/menus.py:143 r2/templates/preffeeds.html:128
 msgid "unmoderated posts"
-msgstr ""
+msgstr "无管理发布"
 
 #: r2/lib/menus.py:144 r2/templates/preffeeds.html:122
 msgid "edited"
@@ -2907,7 +2907,7 @@ msgstr "隔离"
 
 #: r2/lib/menus.py:159
 msgid "featured"
-msgstr ""
+msgstr "精选"
 
 #: r2/lib/menus.py:161
 msgid "help translate"
@@ -3193,7 +3193,7 @@ msgstr "你的账户已经停用，我们尊重你的选择。"
 #: r2/lib/strings.py:79
 #, python-format
 msgid "Log in or sign up to connect your reddit account with %(app)s."
-msgstr "通过%(app)s登录或注册reddit帐号"
+msgstr "通过%(app)s登录或注册话题网帐号"
 
 #: r2/lib/strings.py:82
 #, python-format
@@ -3203,7 +3203,7 @@ msgstr "我理解并同意，注册或使用该网站即表示对其%(user_agree
 #: r2/lib/strings.py:84
 #, python-format
 msgid "to view reddit with only submissions from your friends, use [reddit.com/r/friends](%s)"
-msgstr "查看来自你好友的帖子，使用[reddit.com/r/friends](%s)"
+msgstr "查看来自你好友的帖子，使用[52topcis.com/r/friends](%s)"
 
 #: r2/lib/strings.py:86
 msgid "your subreddit has been created"
@@ -3220,19 +3220,19 @@ msgstr "你还没有订阅任何版块。"
 
 #: r2/lib/strings.py:92
 msgid "below are the subreddits you have subscribed to."
-msgstr "下面是您订阅的Reddit子模块。"
+msgstr "下面是您订阅的话题网子版块。"
 
 #: r2/lib/strings.py:93
 msgid "below are the subreddits that you are an approved submitter on."
-msgstr "下面是允许您提交帖子的版面"
+msgstr "下面是允许您提交帖子的版块"
 
 #: r2/lib/strings.py:94
 msgid "below are the subreddits that you have moderator access to."
-msgstr "下面是您有仲裁人访问的版面"
+msgstr "下面是您有仲裁人访问的版块"
 
 #: r2/lib/strings.py:97
 msgid "click the `subscribe` or `unsubscribe` buttons to choose which subreddits appear on the home feed."
-msgstr ""
+msgstr "点击‘订阅’或‘取消订阅’按钮，选择首页显示的板块"
 
 #: r2/lib/strings.py:99
 #, python-format
@@ -3252,7 +3252,7 @@ msgstr "%(title)s：%(site)s"
 #: r2/lib/strings.py:104
 #, python-format
 msgid "%(score)s points and %(num_comments)s comments so far on reddit"
-msgstr "目前为止你在reddit上获得了%(score)s个积分并且送出了%(num_comments)s个评论"
+msgstr "目前为止你在话题网上获得了%(score)s个积分并且送出了%(num_comments)s个评论"
 
 #: r2/lib/strings.py:106
 msgid "You are submitting a link. The key to a successful submission is interesting content and a descriptive title."
@@ -3310,11 +3310,11 @@ msgstr "你也可以到 [搜索帮助页面](%(search_help)s)获取更多信息�
 
 #: r2/lib/strings.py:119
 msgid "reddit uses a slightly-customized version of [Markdown](http://daringfireball.net/projects/markdown/syntax) for formatting. See below for some basics, or check [the commenting wiki page](/wiki/commenting) for more detailed help and solutions to common issues."
-msgstr "reddit使用一种轻度定制版本的[Markdown](http://daringfireball.net/projects/markdown/syntax)控制文字格式。查看下面了解基本用法，或查看[评论wiki页面](/wiki/commenting)获取更详细的帮助和常见问题的解决方法。"
+msgstr "话题网使用一种轻度定制版本的[Markdown](http://daringfireball.net/projects/markdown/syntax)控制文字格式。查看下面了解基本用法，或查看[评论wiki页面](/wiki/commenting)获取更详细的帮助和常见问题的解决方法。"
 
 #: r2/lib/strings.py:120
 msgid "Reddit is in \"emergency read-only mode\" right now. :( You won't be able to log in. We're sorry and are working frantically to fix the problem."
-msgstr "Reddit 目前正处于\"紧急只读模式\"。:( 无法登陆。很抱歉，我们正积极修复问题中。"
+msgstr "话题网目前正处于\"紧急只读模式\"。:( 无法登陆。很抱歉，我们正积极修复问题中。"
 
 #: r2/lib/strings.py:121
 msgid "this page is temporarily in read-only mode due to heavy traffic."
@@ -3322,25 +3322,25 @@ msgstr "由于流量过大，本页面暂时进入只读模式。"
 
 #: r2/lib/strings.py:122
 msgid "Your account has been permanently [suspended](https://reddit.zendesk.com/hc/en-us/articles/205687686) from Reddit."
-msgstr ""
+msgstr "你的帐号已经被永久［封禁］了(https://starnexus.org)--话题网规则。"
 
 #: r2/lib/strings.py:123
 #, python-format
 msgid "Your account has been [suspended](https://reddit.zendesk.com/hc/en-us/articles/205687686) from Reddit for %(days)s."
-msgstr ""
+msgstr "你的帐号被［封禁］（https://starnexus.org) %(days)天"
 
 #: r2/lib/strings.py:124
 msgid "Your account has been permanently [suspended](https://reddit.zendesk.com/hc/en-us/articles/205687686) from Reddit. [Appeal](/appeal_suspension) suspension."
-msgstr ""
+msgstr "你的帐号已经被永久［封禁］了（https://starnexus.org)--话题网规则。"
 
 #: r2/lib/strings.py:128
 #, python-format
 msgid "Your account has been [suspended](https://reddit.zendesk.com/hc/en-us/articles/205687686) from Reddit for %(days)s. [Appeal](/appeal_suspension) suspension."
-msgstr ""
+msgstr "你的帐号被［封禁］%（days)天。[封禁申诉]（/appeal_suppension)。"
 
 #: r2/lib/strings.py:133
 msgid "Your account has been locked due to possible password compromise, please [reset your password](/prefs/update) to continue using Reddit."
-msgstr "你的账户已经被锁定，因为你的密码可能已经泄露了。在继续使用reddit之前，请你[重设你的密码](/prefs/update)。"
+msgstr "你的账户已经被锁定，因为你的密码可能已经泄露了。在继续使用话题网之前，请你[重设你的密码](/prefs/update)。"
 
 #: r2/lib/strings.py:136
 msgid "You sent us a postcard! (Or something similar.) When we run out of room on our refrigerator, we might one day auction off the stuff that people sent in. Is it okay if we include your thing?"
@@ -3349,7 +3349,7 @@ msgstr "你寄了明信片给我们！(或之类的东西...) 哪天我们冰箱
 #: r2/lib/strings.py:137
 #, python-format
 msgid "Sorry, the maximum number of comments is %(max)d. (However, if you subscribe to reddit gold, it goes up to %(goldmax)d.)"
-msgstr "对不起，最大评论数为%(max)d。（订阅reddit黄金可提高为%(goldmax)d。）"
+msgstr "对不起，最大评论数为%(max)d。（订阅话题网黄金会员可提高为%(goldmax)d。）"
 
 #: r2/lib/strings.py:138
 #, python-format
@@ -3362,14 +3362,14 @@ msgstr "***警告：回复该短信会把你的用户名显示给获赠黄金者
 
 #: r2/lib/strings.py:146
 msgid "Thanks for claiming a reddit gold code.\n\n"
-msgstr "感谢认领reddit黄金代码。\n\n"
+msgstr "感谢认领话题网黄金代码。\n\n"
 
 #: r2/lib/strings.py:147
 #, python-format
 msgid "You're about to set up an ongoing, autorenewing subscription to reddit gold for yourself (%(user)s). \n\n"
 "You'll pay **%(price)s** for this, **monthly**. \n\n"
 ">This subscription will renew automatically each month until you cancel. You may cancel at any time. If you cancel, you will not be billed for any additional months of service, and service will continue until the end of the billing period. If you cancel, you will not receive a refund for any service already paid for. Receipts will be delivered via private message in your account."
-msgstr "你将为自己(%(user)s)开通reddit黄金订阅，这是一项自动续费的订阅服务。\n\n"
+msgstr "你将为自己(%(user)s)开通话题网黄金会员订阅，这是一项自动续费的订阅服务。\n\n"
 "你将**每月**支付**%(price)s**。\n\n"
 "如果你不选择退订，这项订阅将每月自动续费并一直持续。你可以在任何时候选择取消订阅。如果你取消订阅，你将不再会收到关于未来订阅服务的账单，并且你现已支付的部分将一直持续到这个账单周期结束。如果你选择取消订阅，你将不会得到你已经购买的订阅服务的退款。收款回执将会通过站内私信推送到你的帐户中。"
 
@@ -3378,54 +3378,54 @@ msgstr "你将为自己(%(user)s)开通reddit黄金订阅，这是一项自动�
 msgid "You're about to set up an ongoing, autorenewing subscription to reddit gold for yourself (%(user)s). \n\n"
 "You'll pay **%(price)s** for this, **yearly**. \n\n"
 ">This subscription will renew automatically each year until you cancel. You may cancel at any time. If you cancel, you will not be billed for any additional years of service, and service will continue until the end of the billing period. If you cancel, you will not receive a refund for any service already paid for. Receipts will be delivered via private message in your account."
-msgstr "你将为自己(%(user)s)开通reddit黄金订阅，这是一项自动续费的订阅服务。\n\n"
+msgstr "你将为自己(%(user)s)开通话题网黄金订阅，这是一项自动续费的订阅服务。\n\n"
 "你将**每年**支付**%(price)s**。\n\n"
 "如果你不选择退订，这项订阅将每年自动续费并一直持续。你可以在任何时候选择取消订阅。如果你取消订阅，你将不再会收到关于未来的年份的订阅服务账单，并且你现已支付的部分将一直持续到这个账单周期结束。如果你选择取消订阅，你将不会得到你已经购买的订阅服务的退款。收款回执将会通过站内私信推送到你的帐户中。"
 
 #: r2/lib/strings.py:149
 #, python-format
 msgid "You're about to make a one-time purchase of %(amount)s of reddit gold for yourself (%(user)s). You'll pay a total of %(price)s for this."
-msgstr "您将要一次性购买%(amount)s数量的reddit金币(%(user)s). 为此您一共需要支付%(price)s."
+msgstr "您将要一次性购买%(amount)s数量的话题网金币(%(user)s). 为此您一共需要支付%(price)s."
 
 #: r2/lib/strings.py:150
 #, python-format
 msgid "You're about to purchase %(amount)s. They work like gift certificates: each creddit you have will allow you to give one month of reddit gold to someone else. You'll pay a total of %(price)s for this."
-msgstr "你将要购买%(amount)s。它们的使用方式类似礼品兑换券：你拥有的每个reddit点数允许你赠送他人一个月的reddit黄金。你需要为此支付共计%(price)s。"
+msgstr "你将要购买%(amount)s。它们的使用方式类似礼品兑换券：你拥有的每个话题网点数允许你赠送他人一个月的话题网黄金。你需要为此支付共计%(price)s。"
 
 #: r2/lib/strings.py:151
 #, python-format
 msgid "You're about to purchase %(amount)s of reddit gold in the form of a gift code. The recipient (or you) will be able to claim the code to redeem that gold to their account. You'll pay a total of %(price)s for this."
-msgstr "您正购买%(amount)s的reddit金币的礼品码。接受者（或您）领取礼品码以兑换金币。您将为此共计支付%(price)s。"
+msgstr "您正购买%(amount)s的话题网金币的礼品码。接受者（或您）领取礼品码以兑换金币。您将为此共计支付%(price)s。"
 
 #: r2/lib/strings.py:152
 #, python-format
 msgid "You're about to give %(amount)s of reddit gold to %(recipient)s, who will be told that it came from you. You'll pay a total of %(price)s for this."
-msgstr "您正将%(amount)s的reddit金币给予%(recipient)s。接受者会被告知礼物来自您。您将为此共计支付%(price)s。"
+msgstr "您正将%(amount)s的话题网金币给予%(recipient)s。接受者会被告知礼物来自您。您将为此共计支付%(price)s。"
 
 #: r2/lib/strings.py:153
 #, python-format
 msgid "You're about to give %(amount)s of reddit gold to %(recipient)s. It will be an anonymous gift. You'll pay a total of %(price)s for this."
-msgstr "你将赠送%(amount)s的reddit黄金给%(recipient)s。这将是一份匿名赠礼。你需要为此支付总计%(price)s。"
+msgstr "你将赠送%(amount)s的话题网黄金给%(recipient)s。这将是一份匿名赠礼。你需要为此支付总计%(price)s。"
 
 #: r2/lib/strings.py:154
 #, python-format
 msgid "Want to say thanks to *%(recipient)s* for this comment? Give them a month of [reddit gold](/gold/about)."
-msgstr "想为该评论对*%(recipient)s*表示感谢？赠送他一个月的[reddit黄金](/gold/about)。"
+msgstr "想为该评论对*%(recipient)s*表示感谢？赠送他一个月的[话题网黄金](/gold/about)。"
 
 #: r2/lib/strings.py:155
 #, python-format
 msgid "Want to say thanks to *%(recipient)s* for this submission? Give them a month of [reddit gold](/gold/about)."
-msgstr "想为该投稿对*%(recipient)s*表示感谢？赠送他一个月的[reddit黄金](/gold/about)。"
+msgstr "想为该投稿对*%(recipient)s*表示感谢？赠送他一个月的[话题网黄金](/gold/about)。"
 
 #: r2/lib/strings.py:156
 #, python-format
 msgid "You're about to give *%(recipient)s* a month of [reddit gold](/gold/about) for this comment:"
-msgstr "你将为该评论赠送*%(recipient)s*一个月的[reddit黄金](/gold/about)："
+msgstr "你将为该评论赠送*%(recipient)s*一个月的[话题网黄金](/gold/about)："
 
 #: r2/lib/strings.py:157
 #, python-format
 msgid "You're about to give *%(recipient)s* a month of [reddit gold](/gold/about) for this submission:"
-msgstr "你将为该投稿赠送*%(recipient)s*一个月的[reddit黄金](/gold/about)："
+msgstr "你将为该投稿赠送*%(recipient)s*一个月的[话题网黄金](/gold/about)："
 
 #: r2/lib/strings.py:158
 #, python-format
@@ -3447,7 +3447,7 @@ msgstr "该页面展示你的账户的最近活动历史。如果你发现异常
 #: r2/lib/strings.py:162
 #, python-format
 msgid "You are currently accessing reddit from this IP address: %(address)s."
-msgstr "你当前访问reddit的IP地址：%(address)s。"
+msgstr "你当前访问话题网的IP地址：%(address)s。"
 
 #: r2/lib/strings.py:163
 msgid "\n"
@@ -3485,7 +3485,12 @@ msgid "\n"
 "* **uniques** are the total number of unique visitors (determined by a combination of their IP address and User Agent string) that generate the above pageviews. This is independent of whether or not they are signed in.\n"
 "* **subscriptions** is the number of new subscriptions that have been generated in a given day. This number is less accurate than the first two metrics, as, though we can track new subscriptions, we have no way to track unsubscriptions.\n\n"
 "Note: there are a couple of places outside of your subreddit where someone can click \"subscribe\", so it is possible (though unlikely) that the subscription count can exceed the unique count on a given day.\n"
-msgstr ""
+msgstr "\n"
+"以下是你的板块流量统计。每个图像表示与以下间隔相对应。\n\n"
+"* **页面流量** 是 %(subreddit)s 所有的点击数, 包括话题页面和评论页面。\n"
+"* **不重复流量** 是所有唯一访问者的数量 (由IP地址和User Agent sting 决定) 生成以上的页面流量。这个数据与用户是否登录是独立的。\n"
+"* **订阅数** 是在给定天数里生成的新订阅用户数。这个数据的精确度不如前两个数据标准, 这是由于, 我们虽然能追踪新订阅数，我们没有办法追踪取消订阅的用户数。\n\n"
+"注意: 在你的板块外有一些区域有人能够点击\"订阅\"，所以有可能在特定的日期范围内（尽管可能性较小）订阅数可能超过不重复流量数。\n"
 
 #: r2/lib/strings.py:184
 msgid "multireddit of your subscriptions"
@@ -3497,20 +3502,20 @@ msgstr "你管理的版块的版块组"
 
 #: r2/lib/strings.py:187
 msgid "/r/all displays content from all of reddit, including subreddits you aren't subscribed to. Some subreddits have chosen to exclude themselves from /r/all."
-msgstr "/r/all显示来自reddit全部的内容，包括你没有订阅的版块。某些版块选择将自己排除在/r/all之外。"
+msgstr "/r/all显示来自话题网全部的内容，包括你没有订阅的版块。某些版块选择将自己排除在/r/all之外。"
 
 #: r2/lib/strings.py:188
 #, python-format
 msgid "Displaying content from %(subreddit)s, except the following subreddits:"
-msgstr ""
+msgstr "展示来自 %(subreddit)s 的内容，排除以下板块："
 
 #: r2/lib/strings.py:189
 msgid "Filtering /r/all is a feature only available to [reddit gold](/gold/about) subscribers. Displaying unfiltered results from /r/all."
-msgstr "过滤/r/all是一项仅对[reddit黄金](/gold/about)订阅者开放的功能。显示来自/r/all的未过滤结果。"
+msgstr "过滤/r/all是一项仅对[话题网黄金会员](/gold/about)订阅者开放的功能。显示来自/r/all的未过滤结果。"
 
 #: r2/lib/strings.py:190
 msgid "Comment may be offensive"
-msgstr ""
+msgstr "可能是冒犯性的评论"
 
 #: r2/lib/strings.py:268 r2/public/static/js/link-websockets.js:244
 #: r2/templates/comment.htmllite:59 r2/templates/linkinfobar.html:50
@@ -3536,7 +3541,7 @@ msgstr[0] "版块"
 #: r2/lib/strings.py:275
 msgid "creddit"
 msgid_plural "creddits"
-msgstr[0] "reddit点数"
+msgstr[0] "话题点数"
 
 #: r2/lib/strings.py:278
 msgid "reader"
@@ -3658,7 +3663,7 @@ msgstr "您可以查看一条推广链接的流量"
 #: r2/lib/system_messages.py:65
 #, python-format
 msgid "you have been added to the list of users able to seesee [traffic for the promoted post \"%(title)s\"](%(traffic_url)s)."
-msgstr ""
+msgstr "你被添加到[推广流量\"%(titles)s\"］(%(traffic_url)s 可见的列表中。"
 
 #: r2/lib/template_helpers.py:341
 msgid "fetching title..."
