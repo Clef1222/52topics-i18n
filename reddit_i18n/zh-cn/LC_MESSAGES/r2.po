@@ -6057,11 +6057,11 @@ msgstr "成功！已完成。"
 
 #: r2/public/static/js/notification-permissions.js:28
 msgid "Green lock next to the URL > change Receive Notifications to \"allow\""
-msgstr "绿色锁图标靠在网页地址左边 > 更改接受提示为\”允许\“"
+msgstr "绿色锁图标靠在网页地址左边 > 更改接受提示为\"允许\""
 
 #: r2/public/static/js/notification-permissions.js:30
 msgid "Green lock next to the URL > change Notifications to \"always allow on this site\""
-msgstr "绿色锁图标靠在网页地址左边 > 更改提示为 \"总是允许此网站发送提示\”"
+msgstr "绿色锁图标靠在网页地址左边 > 更改提示为 \"总是允许此网站发送提示\""
 
 #: r2/public/static/js/notification-permissions.js:32
 msgid "To finish, change your browser's Notification settings for reddit.com"
@@ -6854,7 +6854,7 @@ msgstr "\n"
 
 #: r2/templates/createsubreddit.html:57
 msgid "no spaces, e.g., \"books\" or \"bookclub\". avoid using solely trademarked names, e.g. use \"FansOfAcme\" instead of \"Acme\". once chosen, this name cannot be changed."
-msgstr "不支持空格,如：\"书籍\"或者\"读书俱乐部\"。避免使用单一商标名，如：使用\"某品牌粉\＂代替\"某品牌\"。一旦选定，该名称将不可更改。"
+msgstr "不支持空格,如：\"书籍\"或者\"读书俱乐部\"。避免使用单一商标名，如：使用\"某品牌粉\"代替\"某品牌\"。一旦选定，该名称将不可更改。"
 
 #: r2/templates/createsubreddit.html:57 r2/templates/goldpayment.html:171
 #: r2/templates/listingchooser.html:60 r2/templates/prefapps.html:140
